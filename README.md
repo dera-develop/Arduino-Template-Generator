@@ -1,0 +1,2 @@
+# Arduino-Template-Generator
+Arduinoプロジェクトのファイル構造テンプレートを作成するCLIツール
