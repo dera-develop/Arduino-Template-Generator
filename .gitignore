@@ -1,0 +1,7 @@
+.vscode/
+vp/
+build/
+dist/
+test*/
+
+atg.spec
